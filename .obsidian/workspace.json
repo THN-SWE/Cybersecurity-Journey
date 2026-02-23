@@ -11,12 +11,24 @@
             "id": "1cd9d70e089d1884",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MY PATH TO CYBER/Assets/Linux-file-type.png"
+                "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Linux-file-type"
+              "icon": "lucide-file",
+              "title": "Basic Commands"
             }
           },
           {
@@ -171,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MY PATH TO CYBER/Assets/Linux-file-type.png",
+                "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux-file-type"
+              "title": "Outline of Basic Commands"
             }
           },
           {
@@ -212,8 +224,8 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "MY PATH TO CYBER/Linux/Basic Commands.md",
     "MY PATH TO CYBER/Assets/Linux-file-type.png",
+    "MY PATH TO CYBER/Linux/Basic Commands.md",
     "MY PATH TO CYBER/Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",

@@ -29,8 +29,8 @@
 
 23-02-2026 
 
-![](Linux-file-type.png)
- - from left to right 
+![](../Assets/Linux-file-type.png)
+- from left to right 
 
 > In the listing files , there are total 10 characters. 
 > First one is showing the file type. 
@@ -49,7 +49,7 @@
 > Next is time stamp - Last time the file was modified 
 
 > lastly file name
-
+ 
 
 ---
 [[Linux-Commands]]
