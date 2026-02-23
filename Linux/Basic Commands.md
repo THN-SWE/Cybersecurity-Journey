@@ -28,9 +28,8 @@
 > `cd ~` this will bring you to your home dir.  
 
 **DAY 2**
-
 ![](../Assets/Linux-file-type.png)
-- from left to right 
+ - from left to right 
 
 > In the listing files , there are total 10 characters. 
 > First one is showing the file type. 
