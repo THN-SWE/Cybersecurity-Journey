@@ -6,5 +6,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1.Rough notes"
+  "newFileFolderPath": "1.Rough notes",
+  "useMarkdownLinks": true
 }

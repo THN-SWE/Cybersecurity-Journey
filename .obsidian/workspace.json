@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
+                "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Basic Commands"
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
+                "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,17 +200,17 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
+    "MY PATH TO CYBER/Assets/Linux-file-type.png",
+    "MY PATH TO CYBER/Linux/Basic Commands.md",
+    "MY PATH TO CYBER/Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",
     "abc/Linux-file-type.png",
     "abc/Basic Commands.md",
     "abc",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Sorting.md",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER/Images/Linux-file-type.png",
+    "MY PATH TO CYBER/Linux",
     "README.md",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER/Images",
+    "MY PATH TO CYBER/Assets",
     "Excalidraw/working with motivation.md",
     "Excalidraw/XOR gate.md",
     "Excalidraw/Drawing 2024-11-24 23.14.46.excalidraw.md",
@@ -208,7 +218,7 @@
     "Excalidraw/Drawing 2024-08-05 17.32.57.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "6.Main notes/How-a-server-can-send-back-wrong-certificate.md",
-    "2.Source Material/Cyber Security/MY PATH TO CYBER",
+    "MY PATH TO CYBER",
     "6.Main notes/Kerckhoffs's principle.md",
     "6.Main notes/RTFM.md",
     "6.Main notes/why I started growing my hair.md",
@@ -227,7 +237,6 @@
     "1.Rough notes/Untitled 7.base",
     "1.Rough notes/Untitled 6.base",
     "1.Rough notes/MY CYBERSECURITY roadmap 💻.md",
-    "2.Source Material/Cyber Security/Linux/GNU-Not-Unix.md",
     "Excalidraw/IMG-20240709-WA0007(1).jpg",
     "Untitled.canvas",
     "1.Rough notes/IMG_20230608_154930.jpg",
