@@ -47,7 +47,7 @@ grep (options) pattern (file...)
 
 
 
-**openssl s_client** -  command implements a generic[[TLS-Client]] which connects to a remote host using SSL/TLS. It is a _very_ useful diagnostic tool for SSL servers.
+**openssl s_client** -  command implements a generic[[../SSL/TLS-Client]] which connects to a remote host using SSL/TLS. It is a _very_ useful diagnostic tool for SSL servers.
 
   **od** - dump files in octal and other formats
  **xxd** - make a hexdump or do the reverse.

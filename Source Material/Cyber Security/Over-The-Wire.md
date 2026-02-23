@@ -9,7 +9,7 @@
 
 #### Linux Commands 
 
-[[Linux-Commands]]
+[[Linux/Linux-Commands]]
 
 ## Levels 
 

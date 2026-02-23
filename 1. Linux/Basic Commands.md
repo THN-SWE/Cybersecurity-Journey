@@ -52,4 +52,4 @@
 **Day 3**
 
 ---
-[[Linux-Commands]]
+[[../Source Material/Cyber Security/Linux/Linux-Commands]]

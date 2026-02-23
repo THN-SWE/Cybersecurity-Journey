@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic Commands.md",
+                "file": "1. Linux/Basic Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic Commands.md",
+                "file": "1. Linux/Basic Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic Commands.md",
+                "file": "1. Linux/Basic Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,19 +222,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cd9d70e089d1884",
+  "active": "77ab32f884c308fd",
   "lastOpenFiles": [
     "Untitled.md",
-    "Linux/Basic Commands.md",
+    "1. Linux/Basic Commands.md",
     "README.md",
     "Assets/Linux-file-type.png",
-    "Linux/Sorting.md",
+    "1. Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",
     "abc/Linux-file-type.png",
     "abc/Basic Commands.md",
     "abc",
-    "Linux",
+    "1. Linux",
     "Assets",
     "Excalidraw/working with motivation.md",
     "Excalidraw/XOR gate.md",
