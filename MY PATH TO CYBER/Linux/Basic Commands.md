@@ -1,4 +1,4 @@
- 21-02-2026_04:16
+ **DAY 1**
 ### Basic Commands 
 
 #### `ls` - Listing content 
@@ -27,7 +27,7 @@
 > `.` this characrer represents your currant directory 
 > `cd ~` this will bring you to your home dir.  
 
-23-02-2026 
+**DAY 2**
 
 ![](../Assets/Linux-file-type.png)
 - from left to right 
@@ -49,7 +49,8 @@
 > Next is time stamp - Last time the file was modified 
 
 > lastly file name
- 
+
+**Day 3**
 
 ---
 [[Linux-Commands]]

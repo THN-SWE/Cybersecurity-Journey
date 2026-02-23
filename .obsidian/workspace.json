@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5a414bc79f83849c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "85604884d0eddd61",
             "type": "leaf",
             "state": {
@@ -224,8 +248,10 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "MY PATH TO CYBER/Assets/Linux-file-type.png",
+    "Untitled.md",
     "MY PATH TO CYBER/Linux/Basic Commands.md",
+    "README.md",
+    "MY PATH TO CYBER/Assets/Linux-file-type.png",
     "MY PATH TO CYBER/Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",
@@ -233,7 +259,6 @@
     "abc/Basic Commands.md",
     "abc",
     "MY PATH TO CYBER/Linux",
-    "README.md",
     "MY PATH TO CYBER/Assets",
     "Excalidraw/working with motivation.md",
     "Excalidraw/XOR gate.md",
