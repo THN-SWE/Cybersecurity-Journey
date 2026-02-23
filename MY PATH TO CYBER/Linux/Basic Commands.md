@@ -29,7 +29,8 @@
 
 23-02-2026 
 
-![[Linux-file-type.png]]- from left to right 
+![](Linux-file-type.png)
+ - from left to right 
 
 > In the listing files , there are total 10 characters. 
 > First one is showing the file type. 

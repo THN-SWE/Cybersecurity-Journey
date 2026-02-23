@@ -11,6 +11,18 @@
             "id": "1cd9d70e089d1884",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "MY PATH TO CYBER/Assets/Linux-file-type.png"
+              },
+              "icon": "lucide-image",
+              "title": "Linux-file-type"
+            }
+          },
+          {
+            "id": "85604884d0eddd61",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
@@ -159,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MY PATH TO CYBER/Linux/Basic Commands.md",
+                "file": "MY PATH TO CYBER/Assets/Linux-file-type.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Commands"
+              "title": "Outline of Linux-file-type"
             }
           },
           {
@@ -200,8 +212,8 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "MY PATH TO CYBER/Assets/Linux-file-type.png",
     "MY PATH TO CYBER/Linux/Basic Commands.md",
+    "MY PATH TO CYBER/Assets/Linux-file-type.png",
     "MY PATH TO CYBER/Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",
