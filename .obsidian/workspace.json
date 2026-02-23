@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "7c5be3c50bdc3545",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca8b7c2b21f8077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd9d70e089d1884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Commands"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b3aa5b1b04d19ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d14c951b820f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ab32f884c308fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae60f0f8bbd73e89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46e5d1d38b282c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "e9ef5a7fbbe9b42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5006ce1b3a636a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338ad84acd7c52d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "70012ee9426d6f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "23648774047e1236",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2dc28ef43820d40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "ec53008e8ceda4e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basic Commands"
+            }
+          },
+          {
+            "id": "ce3f532d917b84a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1cd9d70e089d1884",
+  "lastOpenFiles": [
+    "abc/Sorting.md",
+    "abc/README.md",
+    "abc/Linux-file-type.png",
+    "abc/Basic Commands.md",
+    "abc",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Sorting.md",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux/Basic Commands.md",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER/Linux",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER/Images/Linux-file-type.png",
+    "README.md",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER/Images",
+    "Excalidraw/working with motivation.md",
+    "Excalidraw/XOR gate.md",
+    "Excalidraw/Drawing 2024-11-24 23.14.46.excalidraw.md",
+    "Excalidraw/working with dicipline.md",
+    "Excalidraw/Drawing 2024-08-05 17.32.57.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "6.Main notes/How-a-server-can-send-back-wrong-certificate.md",
+    "2.Source Material/Cyber Security/MY PATH TO CYBER",
+    "6.Main notes/Kerckhoffs's principle.md",
+    "6.Main notes/RTFM.md",
+    "6.Main notes/why I started growing my hair.md",
+    "6.Main notes/Why-I-Hesitate-To-Choose-To-Watch-A-Educational-Video-From-My-Watch-Later.md",
+    "6.Main notes/Why-I-Liked-Cheating-In-Video-Games-Which-Is-Bad-Behavior.md",
+    "6.Main notes/zettlehaston note taking structure.md",
+    "2.Source Material/Web Development/Aggregation-In-MongoDB.md",
+    "2.Source Material/Web Development/Express-Session-Middleware-Module.md",
+    "2.Source Material/Web Development/mailto-HTML-Link.md",
+    "1.Rough notes/Untitled 9.base",
+    "1.Rough notes/Untitled.md",
+    "1.Rough notes/Untitled 1.md",
+    "1.Rough notes/Untitled 10.base",
+    "1.Rough notes/Untitled 11.base",
+    "1.Rough notes/Untitled 8.base",
+    "1.Rough notes/Untitled 7.base",
+    "1.Rough notes/Untitled 6.base",
+    "1.Rough notes/MY CYBERSECURITY roadmap 💻.md",
+    "2.Source Material/Cyber Security/Linux/GNU-Not-Unix.md",
+    "Excalidraw/IMG-20240709-WA0007(1).jpg",
+    "Untitled.canvas",
+    "1.Rough notes/IMG_20230608_154930.jpg",
+    "Untitled 1.canvas",
+    "My_Second_Brain_/Untitled.canvas",
+    "My_Second_Brain_/Untitled 1.canvas",
+    "My_Second_Brain_/My_Brain_DB/Untitled.canvas",
+    "My_Second_Brain_/My_Brain_DB/Untitled 1.canvas",
+    "My_Second_Brain_/My_Brain_DB/5.Media/IMG_20230608_154930.jpg"
+  ]
+}

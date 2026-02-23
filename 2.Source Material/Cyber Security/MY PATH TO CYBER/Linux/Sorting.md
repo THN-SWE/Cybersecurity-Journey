@@ -1,0 +1,5 @@
+- `-ls` - sorted in alphabetic order by default 
+- `-t` - will sort items by timestamps. 
+- `-s` - will sort by size.
+- `-r` - will reverse the order of any kind of sort
+- 

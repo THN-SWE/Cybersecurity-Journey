@@ -1,0 +1,1 @@
+It refers to software, **typically a web browser or application** , that uses these protocols to establisih secure communications with a server
