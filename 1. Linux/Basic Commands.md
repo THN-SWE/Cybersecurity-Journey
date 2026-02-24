@@ -32,24 +32,24 @@
  - from left to right 
 
 > In the listing files , there are total 10 characters. 
-> First one is showing the file type. 
+> First one is showing the **file type.** 
 
-> Next nine characters are permissions - how certain users can access a file. 
+> Next nine characters are **permissions** - how certain users can access a file. 
 
 > at the last there is a number which is known as [[Hard-Link-Count]] - This number indicates how many hard links point to this file
 
-> next to 10 characters, it is the Owner - who owns the particular file. 
+> next to 10 characters, it is the **Owner** - who owns the particular file. 
 > Every time a file is created, the ownership is automatically assigned to the user who created it.
 
-> Next to user owner, there is Group owner. which group owns the file
+> Next to user owner, there is **Group owner**. which group owns the file
 
-> 5 th Item is Flie size in KB.
+> 5 th Item is **Flie size** in KB.
 
-> Next is time stamp - Last time the file was modified 
+> Next is **time stamp** - Last time the file was modified 
 
 > lastly file name
 
-**Day 3**
+ 
 
 ---
 [[../Source Material/Cyber Security/Linux/Linux-Commands]]

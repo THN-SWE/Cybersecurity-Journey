@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Linux/Basic Commands.md",
+                "file": "1. Linux/Administrative Access.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Commands"
+              "title": "Administrative Access"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Linux/Basic Commands.md",
+                "file": "1. Linux/Administrative Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Commands"
+              "title": "Outline of Administrative Access"
             }
           },
           {
@@ -222,13 +222,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77ab32f884c308fd",
+  "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1. Linux/Sorting.md",
+    "Assets/Screenshot 2026-02-24 190321.png",
+    "1. Linux/Administrative Access.md",
+    "Assets/Screenshot 2026-02-24 190516.png",
+    "Assets/Screenshot 2026-02-24 190337.png",
     "1. Linux/Basic Commands.md",
+    "Assets/using-2-sorting-at-once.png",
+    "Untitled.md",
     "README.md",
     "Assets/Linux-file-type.png",
-    "1. Linux/Sorting.md",
     "abc/Sorting.md",
     "abc/README.md",
     "abc/Linux-file-type.png",
@@ -255,13 +260,11 @@
     "2.Source Material/Web Development/mailto-HTML-Link.md",
     "1.Rough notes/Untitled 9.base",
     "1.Rough notes/Untitled.md",
-    "1.Rough notes/Untitled 1.md",
     "1.Rough notes/Untitled 10.base",
     "1.Rough notes/Untitled 11.base",
     "1.Rough notes/Untitled 8.base",
     "1.Rough notes/Untitled 7.base",
     "1.Rough notes/Untitled 6.base",
-    "1.Rough notes/MY CYBERSECURITY roadmap 💻.md",
     "Excalidraw/IMG-20240709-WA0007(1).jpg",
     "Untitled.canvas",
     "1.Rough notes/IMG_20230608_154930.jpg",

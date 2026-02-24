@@ -1,0 +1,41 @@
+**DAY 4**
+
+**`su` Command** / **substitute user** (sometimes called switch user).
+
+>" The `su` command allows you to temporarily act as a different user. It does this by creating a new shell. The shell is simply a text input console that lets you type in commands. By default, if a user account is not specified, the `su` command will open a new shell as the root user, which provides administrative privileges. "
+
+- Um so basically `su` switch you to another user on the system. 
+- `su --login` to switch to particular user. 
+- `su` just running this, logs you in as a root user. 
+
+**`su` Command**
+
+> " The `sudo` command allows a user to execute a command as another user without creating a new shell. Instead, to execute a command with administrative privileges, use it as an argument to the `sudo` command. "
+
+- Here `sl` (steam locomotive) command is restricted for normal users. So i am using sudo to access it. 
+![](../Assets/Screenshot%202026-02-24%20190516.png)
+
+![](../Assets/Screenshot%202026-02-24%20190321.png)
+
+> This is an advantage as it reduces the risk that a user accidentally executes a command as root.
+
+- Fine but It raises me a question of : **How can a regular user be able to use a privillaged command like this using `sudo` ?** 
+
+#### Answer 
+
+- using sudo means nothing like you can use any root commands, no cheating. 
+- It root(admin user) who set the rules for other user that they can use the sudo and gives certain permissions 
+- Only they can edit it 
+- that is special config file located in `/etc/sudoers`
+
+> You’re not actually **becoming root** permanently.
+You’re just **borrowing root powers for that command** that you are permitted to do so.  That’s why it’s safer than `su`
+
+**How Sudo Actually Grants the Privilege** 
+`sudo apt update`
+
+- `sudo` checks **your username**
+- Reads `/etc/sudoers` to see if you’re allowed
+- If yes → it temporarily changes your **Effective UID (EUID)** to the target user (usually root)
+- Executes the command
+- After the command finishes → EUID goes back to normal
