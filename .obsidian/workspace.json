@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Linux/Administrative Access.md",
+                "file": "1. Linux/7. Viewing Files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Administrative Access"
+              "title": "7. Viewing Files"
             }
           },
           {
-            "id": "85604884d0eddd61",
+            "id": "0e18c2cfc592d587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Linux/Basic Commands.md",
+                "file": "1. Linux/6. Changing File Ownership.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Commands"
+              "title": "6. Changing File Ownership"
+            }
+          },
+          {
+            "id": "c047409cc2887895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "octal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "octal"
             }
           }
         ],
@@ -183,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Linux/Administrative Access.md",
+                "file": "1. Linux/7. Viewing Files.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Administrative Access"
+              "title": "Outline of 7. Viewing Files"
             }
           },
           {
@@ -207,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,19 +249,30 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "1. Linux/Sorting.md",
+    "1. Linux/6. Changing File Ownership.md",
+    "1. Linux/7. Viewing Files.md",
+    "Assets/Screenshot 2026-02-25 184813.png",
+    "Assets/Screenshot 2026-02-25 184645.png",
+    "1. Linux/1. Basic Commands.md",
+    "Group.md",
+    "1. Linux/5. Permissions.md",
+    "1. Linux/4. Changing File Permissions.md",
+    "1. Linux/3. Administrative Access.md",
+    "Assets/Screenshot 2026-02-25 183317.png",
+    "Assets/Screenshot 2026-02-25 181549.png",
+    "Assets/Screenshot 2026-02-25 181425.png",
+    "octal.md",
+    "Source Material/Cyber Security/Linux/Permission-types.md",
+    "Assets/Screenshot 2026-02-25 174527.png",
+    "1. Linux/2. Sorting.md",
     "Assets/Screenshot 2026-02-24 190321.png",
-    "1. Linux/Administrative Access.md",
     "Assets/Screenshot 2026-02-24 190516.png",
     "Assets/Screenshot 2026-02-24 190337.png",
-    "1. Linux/Basic Commands.md",
     "Assets/using-2-sorting-at-once.png",
     "Untitled.md",
     "README.md",
-    "Assets/Linux-file-type.png",
     "abc/Sorting.md",
     "abc/README.md",
-    "abc/Linux-file-type.png",
     "abc/Basic Commands.md",
     "abc",
     "1. Linux",
@@ -253,26 +289,17 @@
     "6.Main notes/RTFM.md",
     "6.Main notes/why I started growing my hair.md",
     "6.Main notes/Why-I-Hesitate-To-Choose-To-Watch-A-Educational-Video-From-My-Watch-Later.md",
-    "6.Main notes/Why-I-Liked-Cheating-In-Video-Games-Which-Is-Bad-Behavior.md",
-    "6.Main notes/zettlehaston note taking structure.md",
-    "2.Source Material/Web Development/Aggregation-In-MongoDB.md",
-    "2.Source Material/Web Development/Express-Session-Middleware-Module.md",
-    "2.Source Material/Web Development/mailto-HTML-Link.md",
     "1.Rough notes/Untitled 9.base",
-    "1.Rough notes/Untitled.md",
     "1.Rough notes/Untitled 10.base",
     "1.Rough notes/Untitled 11.base",
     "1.Rough notes/Untitled 8.base",
     "1.Rough notes/Untitled 7.base",
     "1.Rough notes/Untitled 6.base",
-    "Excalidraw/IMG-20240709-WA0007(1).jpg",
     "Untitled.canvas",
-    "1.Rough notes/IMG_20230608_154930.jpg",
     "Untitled 1.canvas",
     "My_Second_Brain_/Untitled.canvas",
     "My_Second_Brain_/Untitled 1.canvas",
     "My_Second_Brain_/My_Brain_DB/Untitled.canvas",
-    "My_Second_Brain_/My_Brain_DB/Untitled 1.canvas",
-    "My_Second_Brain_/My_Brain_DB/5.Media/IMG_20230608_154930.jpg"
+    "My_Second_Brain_/My_Brain_DB/Untitled 1.canvas"
   ]
 }
