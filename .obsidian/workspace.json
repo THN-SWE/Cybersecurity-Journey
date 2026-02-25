@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Linux/7. Viewing Files.md",
+                "file": "1. Linux/8. Copying Files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Viewing Files"
+              "title": "8. Copying Files"
             }
           },
           {
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Linux/7. Viewing Files.md",
+                "file": "1. Linux/8. Copying Files.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Viewing Files"
+              "title": "Outline of 8. Copying Files"
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "1. Linux/6. Changing File Ownership.md",
     "1. Linux/7. Viewing Files.md",
+    "1. Linux/8. Copying Files.md",
+    "1. Linux/6. Changing File Ownership.md",
     "Assets/Screenshot 2026-02-25 184813.png",
     "Assets/Screenshot 2026-02-25 184645.png",
     "1. Linux/1. Basic Commands.md",
@@ -288,7 +289,6 @@
     "6.Main notes/Kerckhoffs's principle.md",
     "6.Main notes/RTFM.md",
     "6.Main notes/why I started growing my hair.md",
-    "6.Main notes/Why-I-Hesitate-To-Choose-To-Watch-A-Educational-Video-From-My-Watch-Later.md",
     "1.Rough notes/Untitled 9.base",
     "1.Rough notes/Untitled 10.base",
     "1.Rough notes/Untitled 11.base",
