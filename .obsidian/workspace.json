@@ -11,72 +11,12 @@
             "id": "1cd9d70e089d1884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Linux/8. Copying Files.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Assets/Linux-file-type.png"
               },
-              "icon": "lucide-file",
-              "title": "8. Copying Files"
-            }
-          },
-          {
-            "id": "0e18c2cfc592d587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Linux/6. Changing File Ownership.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6. Changing File Ownership"
-            }
-          },
-          {
-            "id": "c047409cc2887895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "octal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "octal"
+              "icon": "lucide-image",
+              "title": "Linux-file-type"
             }
           }
         ],
@@ -247,32 +187,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77ab32f884c308fd",
+  "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "Assets/Screenshot 2026-02-26 181410.png",
-    "Pasted image 20260226181251.png",
-    "1. Linux/4. Changing File Permissions.md",
-    "1. Linux/5. Permissions.md",
-    "1. Linux/6. Changing File Ownership.md",
+    "1. Linux/11. Removing files.md",
+    "Pasted image 20260226190331.png",
+    "Assets/Screenshot 2026-02-26 190314.png",
     "1. Linux/8. Copying Files.md",
-    "Assets/Screenshot 2026-02-26 180050.png",
-    "Assets/Screenshot 2026-02-26 174143.png",
-    "1. Linux/1. Basic Commands.md",
     "1. Linux/2. Sorting.md",
     "1. Linux/7. Viewing Files.md",
-    "Assets/Screenshot 2026-02-25 184813.png",
-    "Assets/Screenshot 2026-02-25 184645.png",
-    "Group.md",
+    "1. Linux/6. Changing File Ownership.md",
+    "1. Linux/5. Permissions.md",
+    "1. Linux/4. Changing File Permissions.md",
     "1. Linux/3. Administrative Access.md",
-    "Assets/Screenshot 2026-02-25 183317.png",
-    "Assets/Screenshot 2026-02-25 181549.png",
-    "Assets/Screenshot 2026-02-25 181425.png",
-    "octal.md",
-    "Source Material/Cyber Security/Linux/Permission-types.md",
-    "Assets/Screenshot 2026-02-25 174527.png",
-    "Assets/Screenshot 2026-02-24 190321.png",
-    "Untitled.md",
+    "1. Linux/9. Copying Files 2.md",
+    "Source Material/Clever way to rename files using mv.md",
+    "Source Material/Group.md",
+    "Source Material/octal.md",
     "README.md",
+    "Assets/Pasted image 20260226181251.png",
+    "Assets/Screenshot 2026-02-26 185452.png",
+    "Assets/Screenshot 2026-02-26 184823.png",
+    "1. Linux/10. Moving Files.md",
+    "Assets/Screenshot 2026-02-26 185028.png",
+    "Assets/Screenshot 2026-02-26 183031.png",
+    "Assets/Screenshot 2026-02-26 182923.png",
+    "Assets/Screenshot 2026-02-26 181410.png",
+    "Assets/Screenshot 2026-02-26 180050.png",
+    "1. Linux/1. Basic Commands.md",
+    "Source Material/Cyber Security/Linux/Permission-types.md",
+    "Untitled.md",
     "abc/Sorting.md",
     "abc/README.md",
     "abc/Basic Commands.md",
@@ -284,11 +227,7 @@
     "Excalidraw/Drawing 2024-11-24 23.14.46.excalidraw.md",
     "Excalidraw/working with dicipline.md",
     "Excalidraw/Drawing 2024-08-05 17.32.57.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "6.Main notes/How-a-server-can-send-back-wrong-certificate.md",
     "MY PATH TO CYBER",
-    "6.Main notes/Kerckhoffs's principle.md",
-    "6.Main notes/RTFM.md",
     "1.Rough notes/Untitled 9.base",
     "1.Rough notes/Untitled 10.base",
     "1.Rough notes/Untitled 11.base",
