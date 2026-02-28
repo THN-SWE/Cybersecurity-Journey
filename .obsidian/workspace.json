@@ -11,12 +11,48 @@
             "id": "1cd9d70e089d1884",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Linux-file-type.png"
+                "file": "1. Linux/12. Filtering Input.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Linux-file-type"
+              "icon": "lucide-file",
+              "title": "12. Filtering Input"
+            }
+          },
+          {
+            "id": "c4086f817f771988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regular-Expressions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Regular-Expressions"
             }
           }
         ],
@@ -187,32 +223,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77ab32f884c308fd",
+  "active": "1cd9d70e089d1884",
   "lastOpenFiles": [
-    "1. Linux/11. Removing files.md",
-    "Assets/Pasted image 20260226190331.png",
-    "Assets/Screenshot 2026-02-26 190314.png",
+    "Assets/Screenshot 2026-02-28 155812.png",
+    "Assets/Screenshot 2026-02-28 155016.png",
+    "Regular-Expressions.md",
+    "1. Linux/12. Filtering Input.md",
+    "Assets/Screenshot 2026-02-28 154137.png",
+    "Assets/Screenshot 2026-02-28 152906.png",
+    "Assets/Screenshot 2026-02-28 152705.png",
+    "Assets/Screenshot 2026-02-28 142203.png",
+    "Assets/Screenshot 2026-02-28 142053.png",
+    "Assets/Screenshot 2026-02-28 141357.png",
+    "Assets/Screenshot 2026-02-28 140309.png",
+    "Assets/Screenshot 2026-02-28 135901.png",
     "1. Linux/8. Copying Files.md",
+    "Assets/Screenshot 2026-02-28 134956.png",
+    "1. Linux/9. Copying Files 2.md",
+    "1. Linux/10. Moving Files.md",
+    "1. Linux/11. Removing files.md",
     "1. Linux/2. Sorting.md",
     "1. Linux/7. Viewing Files.md",
     "1. Linux/6. Changing File Ownership.md",
     "1. Linux/5. Permissions.md",
     "1. Linux/4. Changing File Permissions.md",
     "1. Linux/3. Administrative Access.md",
-    "1. Linux/9. Copying Files 2.md",
     "Source Material/Clever way to rename files using mv.md",
     "Source Material/Group.md",
     "Source Material/octal.md",
     "README.md",
-    "Assets/Pasted image 20260226181251.png",
-    "Assets/Screenshot 2026-02-26 185452.png",
-    "Assets/Screenshot 2026-02-26 184823.png",
-    "1. Linux/10. Moving Files.md",
-    "Assets/Screenshot 2026-02-26 185028.png",
-    "Assets/Screenshot 2026-02-26 183031.png",
-    "Assets/Screenshot 2026-02-26 182923.png",
-    "Assets/Screenshot 2026-02-26 181410.png",
-    "Assets/Screenshot 2026-02-26 180050.png",
     "1. Linux/1. Basic Commands.md",
     "Source Material/Cyber Security/Linux/Permission-types.md",
     "Untitled.md",
@@ -225,8 +264,6 @@
     "Excalidraw/working with motivation.md",
     "Excalidraw/XOR gate.md",
     "Excalidraw/Drawing 2024-11-24 23.14.46.excalidraw.md",
-    "Excalidraw/working with dicipline.md",
-    "Excalidraw/Drawing 2024-08-05 17.32.57.excalidraw.md",
     "MY PATH TO CYBER",
     "1.Rough notes/Untitled 9.base",
     "1.Rough notes/Untitled 10.base",
