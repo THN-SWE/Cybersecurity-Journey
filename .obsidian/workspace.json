@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Material/Clever way to rename files using mv.md",
+                "file": "1. Linux/18. Redirection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clever way to rename files using mv"
+              "title": "18. Redirection"
+            }
+          },
+          {
+            "id": "a7838e1eb9cabed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standard-Streams-IO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Standard-Streams-IO"
             }
           }
         ],
@@ -201,23 +225,28 @@
   },
   "active": "c4086f817f771988",
   "lastOpenFiles": [
+    "Screenshot 2026-03-02 185533.png",
+    "Standard-Streams-IO.md",
+    "1. Linux/18. Redirection.md",
+    "Standard-Streams-I/eef.md",
+    "Standard-Streams-I",
+    "1. Linux/17. Updating User Passwords.md",
+    "1. Linux/13. Shutting Down.md",
+    "1. Linux/14. Network Configuration.md",
+    "1. Linux/15. Viewing Processes.md",
+    "Source Material/Clever way to rename files using mv.md",
     "Source Material/Group.md",
     "Source Material/octal.md",
     "Source Material/Regular-Expressions.md",
     "Assets/Screenshot 2026-03-01 183118.png",
-    "1. Linux/18. Redirection.md",
-    "1. Linux/17. Updating User Passwords.md",
     "Assets/Screenshot 2026-03-01 191534.png",
     "Assets/Screenshot 2026-03-01 191338.png",
     "1. Linux/16. Package Management.md",
     "1. Linux/1. Basic Commands.md",
-    "1. Linux/15. Viewing Processes.md",
     "Assets/Screenshot 2026-03-01 185255.png",
     "Assets/Screenshot 2026-03-01 185134.png",
     "Assets/Screenshot 2026-03-01 185036.png",
-    "1. Linux/14. Network Configuration.md",
     "Assets/Screenshot 2026-03-01 184044.png",
-    "1. Linux/13. Shutting Down.md",
     "Assets/Screenshot 2026-03-01 182537.png",
     "Assets/Screenshot 2026-03-01 182129.png",
     "1. Linux/3. Administrative Access.md",
@@ -232,10 +261,7 @@
     "1. Linux/6. Changing File Ownership.md",
     "1. Linux/5. Permissions.md",
     "1. Linux/4. Changing File Permissions.md",
-    "Source Material/Clever way to rename files using mv.md",
     "README.md",
-    "Source Material/Cyber Security/Linux/Permission-types.md",
-    "Untitled.md",
     "abc",
     "1. Linux",
     "Assets",
@@ -245,7 +271,6 @@
     "1.Rough notes/Untitled 11.base",
     "1.Rough notes/Untitled 8.base",
     "1.Rough notes/Untitled 7.base",
-    "1.Rough notes/Untitled 6.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "My_Second_Brain_/Untitled.canvas",
