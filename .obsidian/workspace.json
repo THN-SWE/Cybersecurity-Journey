@@ -11,24 +11,12 @@
             "id": "c4086f817f771988",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Linux Unattached by Cisco/20. Assessment and My Learnings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Assets/Screenshot 2026-03-02 193146.png"
               },
-              "icon": "lucide-file",
-              "title": "20. Assessment and My Learnings"
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-03-02 193146"
             }
           },
           {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Standard-Streams-IO.md",
+                "file": "Misc/Standard-Streams-IO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,22 +213,22 @@
   },
   "active": "77ab32f884c308fd",
   "lastOpenFiles": [
-    "Screenshot 2026-03-02 193146.png",
-    "1. Linux Unattached by Cisco/19. Text Editors.md",
+    "Misc/Standard-Streams-IO.md",
+    "Misc/Clever way to rename files using mv.md",
     "1. Linux Unattached by Cisco/20. Assessment and My Learnings.md",
+    "Assets/Screenshot 2026-03-02 193146.png",
+    "1. Linux Unattached by Cisco/19. Text Editors.md",
     "1. Linux Unattached by Cisco/18. Redirection.md",
-    "Screenshot 2026-03-02 185533.png",
-    "Standard-Streams-IO.md",
+    "Assets/Screenshot 2026-03-02 185533.png",
     "Standard-Streams-I/eef.md",
     "Standard-Streams-I",
     "1. Linux Unattached by Cisco/17. Updating User Passwords.md",
     "1. Linux Unattached by Cisco/13. Shutting Down.md",
     "1. Linux Unattached by Cisco/14. Network Configuration.md",
     "1. Linux Unattached by Cisco/15. Viewing Processes.md",
-    "Source Material/Clever way to rename files using mv.md",
-    "Source Material/Group.md",
-    "Source Material/octal.md",
-    "Source Material/Regular-Expressions.md",
+    "Misc/Group.md",
+    "Misc/octal.md",
+    "Misc/Regular-Expressions.md",
     "Assets/Screenshot 2026-03-01 183118.png",
     "Assets/Screenshot 2026-03-01 191534.png",
     "Assets/Screenshot 2026-03-01 191338.png",
@@ -251,7 +239,6 @@
     "Assets/Screenshot 2026-03-01 185036.png",
     "Assets/Screenshot 2026-03-01 184044.png",
     "Assets/Screenshot 2026-03-01 182537.png",
-    "Assets/Screenshot 2026-03-01 182129.png",
     "1. Linux Unattached by Cisco/3. Administrative Access.md",
     "1. Linux Unattached by Cisco/12. Filtering Input.md",
     "1. Linux Unattached by Cisco/8. Copying Files.md",
