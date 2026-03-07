@@ -1,0 +1,2 @@
+- Translates in Tamil as *Parigaram*
+- In Cyber Security terms - **Fixing a security problem or vulnerability after it is discovered**
