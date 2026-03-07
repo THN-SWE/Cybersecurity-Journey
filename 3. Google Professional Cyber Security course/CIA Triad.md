@@ -1,0 +1,43 @@
+> In cybersecurity, the **CIA Triad** is the **foundation of information security**
+
+- Confidentiality 
+- Integrity 
+- Availability
+
+#### Confidentiality 
+>  We have to make sure the information is safe and not accessible to unauthorized individuals or systems. 
+
+- **Encrypting** data so only certain people can access it. 
+- **Access Control** - selectively restrict access to a source. (*passwords*, *Role based*, eg: in linux assign [5. Permissions](../1.%20Linux%20Unattached%20by%20Cisco/5.%20Permissions.md) to certain users to access certain files. *Physical access control* like fingerprint.
+- 
+
+#### Integrity 
+>  Translates to `nambaga-thanmai` in Tamil. 
+> Making sure the information can't be modified without detection. 
+
+- Integrity of a data could be achieved by *Hashing*. It is by sending the data with the set length of hash, then the receiver can do the same hashing function on the data to check if he gets the same hash, it proves the data isn't modified or read in the middle. 
+- *[[Digital Signatures]]*
+- *Certificates* - A digital certificate proves that a public key belongs to a specific entity. Good example is a HTTPs website. A secured website would have a certificate(SSL/TLS certificate) which is checked by the browser to confirm 
+	- - This server really belongs to the website
+	- The encryption key is legitimate
+	- The data connection is secure
+- *[[Non-Repudiation]]* - Someone cannot deny that they performed an action.
+
+#### Availability 
+> This means even when we implemented security solutions to safeguard our information, the system should be up and running AND be accessible to authorized persons. 
+
+- *Redundancy* - Build servers that will always be available. 
+- *Fault Tolerance* - Systems will continue to run even when a failure occurs.
+- *Patching* - Stability, Close security holes. 
+
+![](../Screenshot%202026-03-07%20123253%201.png)
+
+>  However, CIA is not just a set of definitions, it's a **security mindset of cyber security professionals**. 
+
+- When a security incident occurs, it is often explained in terms of what was affected. Security professionals generally by asking questions like:
+- Was sensitive data exposed to unauthorized individuals?
+- Was data being modified without permission?
+- Were systems or services unavailable to users when they needed?
+
+![](../Screenshot%202026-03-07%20131921.png)
+- completed the CIA triad room on TryHackMe.
