@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca8b7c2b21f8077",
+        "id": "c7196861b766f148",
         "type": "tabs",
         "children": [
           {
-            "id": "c4086f817f771988",
+            "id": "b641e61c1bafe33f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Google Professional Cyber Security course/7. Incident Response.md",
+                "file": "3. Google Professional Cyber Security course/1. Fundamentals/1. CIA Triad2..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Incident Response"
+              "title": "1. CIA Triad2."
             }
           }
         ],
@@ -199,31 +199,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77ab32f884c308fd",
+  "active": "b641e61c1bafe33f",
   "lastOpenFiles": [
-    "3. Google Professional Cyber Security course/6. SIEM - Tool.md",
-    "3. Google Professional Cyber Security course/7. Incident Response.md",
+    "Playboo.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/1. CIA Triad2..md",
+    "Untitled.base",
+    "Untitled.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/2. Security Audit.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/3. Conducting a Security Audit.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/4. Portfolio Activity - Conducting a Security Audit.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/5. OWASP Security Principals.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/6. SIEM - Tool.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/Security Frameworks & Controls.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/CISSP - 8 security domains.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/7. Incident Response & Playbook.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals",
+    "3. Google Professional Cyber Security course/2. Network Security/2..md",
+    "3. Google Professional Cyber Security course/2. Network Security",
+    "Misc/SOAR tool.md",
     "Screenshots/Screenshot 2026-03-08 190533.png",
-    "3. Google Professional Cyber Security course/1. CIA Triad.md",
     "2. Linux hands ON (Over the Wire-Bandit)/Lvl0.md",
     "Misc/SSH.md",
-    "3. Google Professional Cyber Security course/3. Conducting a Security Audit.md",
-    "3. Google Professional Cyber Security course/2. Security Audit.md",
-    "3. Google Professional Cyber Security course/4. Portfolio Activity - Conducting a Security Audit.md",
     "Documents/Controls and compliance checklist.pdf",
     "Documents/Controls and compliance checklist 3.docx",
     "Documents/Controls and compliance checklist 2.docx",
     "Documents/Controls and compliance checklist 1.docx",
     "Documents/Controls and compliance checklist.docx",
     "Documents/Control categories.pdf",
-    "3. Google Professional Cyber Security course/5. OWASP Security Principals.md",
-    "3. Google Professional Cyber Security course/Security Frameworks & Controls.md",
     "Documents",
-    "Documents/Scope, goals, and risk assessment report- Botium Toys.pdf",
     "Glossary/adhering.md",
     "Glossary/remediation.md",
-    "Glossary",
-    "3. Google Professional Cyber Security course/CISSP - 8 security domains.md",
     "Screenshots/Screenshot 2026-03-07 131921.png",
     "Screenshots/Screenshot 2026-03-04 183130.png",
     "1. Linux Unattached by Cisco/5. Permissions.md",
@@ -231,7 +236,6 @@
     "Screenshots/Screenshot 2026-03-07 123253 1.png",
     "Screenshots/Screenshot 2026-03-07 123253.png",
     "Screenshots/Screenshot 2026-03-05 192505.png",
-    "2. Linux hands ON (Over the Wire-Bandit)",
     "2. Cisco Networking Basics/1. STATIC and DYNAMIC IP Address.md",
     "Standard-Streams-I/eef.md",
     "Screenshots/Screenshot 2026-03-02 193146.png",
@@ -239,12 +243,7 @@
     "Misc/Clever way to rename files using mv.md",
     "1. Linux Unattached by Cisco/20. Assessment and My Learnings.md",
     "1. Linux Unattached by Cisco/19. Text Editors.md",
-    "1. Linux Unattached by Cisco/18. Redirection.md",
     "Screenshots/Screenshot 2026-03-02 185533.png",
-    "1. Linux Unattached by Cisco/17. Updating User Passwords.md",
-    "1. Linux Unattached by Cisco/13. Shutting Down.md",
-    "1. Linux Unattached by Cisco/14. Network Configuration.md",
-    "1. Linux Unattached by Cisco/15. Viewing Processes.md",
     "Screenshots/Screenshot 2026-03-01 183118.png",
     "Screenshots/Screenshot 2026-03-01 191534.png",
     "Untitled.canvas",
