@@ -1,0 +1,1 @@
+A **switch** forwards packets between devices directly connected to it.
