@@ -1,11 +1,19 @@
 **A network security device which monitors the network and restrict specific incoming and outgoing network traffic.** 
 
 - There are two types - **Physical** and Firewall as a **software** runs on  device like *windows defender*.  
+- **Cloud based firewall** is another type.
+
+#### Stateful and Stateless Firewall  and NGFW
+
+- Any firewall should fall into any of this 2 categories. 
+- **Stateful** - A class of firewall that keeps track of information passing through it and proactively filters out threat. 
+- **Stateless** -   A class of firewall that operates based on predefined rules and does not keep track of information from data packets. 
+- **Next Gen firewall** - Deep packet inspection, intrusion protection, Threat intelligence.  
 
 ![](../Screenshots/Screenshot%202026-03-12%20185726.png)
   Dam ! why are physical ones are so expensive ? 
 
-#### What is the difference ? 
+#### What is the difference Physical vs Software ? 
 - Unlike software firewall Physical firewall stops threats even before it reaches your device. 
 - Companies deploy devices like **Fortinet FortiGate** or **Cisco ASA**
 - ==Hardware firewall has its limits== 

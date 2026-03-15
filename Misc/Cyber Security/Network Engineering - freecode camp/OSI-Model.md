@@ -11,15 +11,15 @@ In Networking all the layer of OSI model get accomplished Goal of [[Purpose-of-N
 
 #### Structure of OSI                    `TCP/IP Structure` 
 
-1. **[[Application Layer]]** 
-2. **[[Presentation Layer]]**                             `Application`
+1. **[[../../Application Layer]]** 
+2. **[[../../Presentation Layer]]**                             `Application`
 3. **[[Session Layer]]**                                       
 ---- 
 4. **[[Transport Layer]]**                                  `Host to Host`
 5. **[[Network Layer]]**                                   `Internet`
 -----
-7. **[[Data link Layer]]**
-8. **[[Physical Layer]]**                                  `Network Access`
+6. **[[Data link Layer]]**
+7. **[[Physical Layer]]**                                  `Network Access`
 ---- 
 
 #### Workflow of OSI action 

@@ -9,7 +9,7 @@
 - display DNS hash table
 
 #### ARP -A
-- display [[ARP-protocol-networking]] hash table 
+- display [[../../ARP-protocol-networking]] hash table 
 
 #### NSLOOKUP
 - get the ip address of hostname name

@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "638809a080ab3084",
+            "id": "333a4bc2069d1993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Presentation Layer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Presentation Layer"
+            }
+          },
+          {
+            "id": "af8ccf8999ffdd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Google Professional Cyber Security course/2. Network Security/Security Zones.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Security Zones"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -185,20 +224,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77ab32f884c308fd",
+  "active": "af8ccf8999ffdd90",
   "lastOpenFiles": [
+    "Misc/VPN.md",
+    "3. Google Professional Cyber Security course/2. Network Security/Security Zones.md",
+    "Misc/Cyber Security/Network Engineering - freecode camp/Network Layer.md",
     "Misc/Firewall.md",
-    "Misc/Switch.md",
+    "Misc/Presentation Layer.md",
+    "Screenshots/Screenshot 2026-03-14 150217.png",
     "3. Google Professional Cyber Security course/2. Network Security/TCP-IP Model.md",
+    "Misc/Data-Packet (aka IP-Packet).md",
+    "Screenshots/Screenshot 2026-03-14 145345.png",
     "Misc/Cyber Security/Network Engineering - freecode camp/OSI-Model.md",
+    "Misc/Cyber Security/Network Engineering - freecode camp/Session Layer.md",
+    "Misc/Cyber Security/Network Engineering - freecode camp/Transport Layer.md",
+    "Misc/Application Layer.md",
+    "Screenshots/Screenshot 2026-03-14 140148.png",
+    "Misc/ICMP.md",
+    "Misc/ARP-protocol-networking.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Physical Layer.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Data link Layer.md",
-    "Misc/Cyber Security/Network Engineering - freecode camp/Network Layer.md",
-    "Misc/Cyber Security/Network Engineering - freecode camp/Transport Layer.md",
+    "Screenshots/Screenshot 2026-03-14 122742.png",
+    "Screenshots/Screenshot 2026-03-12 185726.png",
+    "Misc/Switch.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Port-Scanner.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Ports.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Purpose-of-Networking.md",
-    "Misc/Cyber Security/Network Engineering - freecode camp/Session Layer.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/What-is-Subnet-Subnetting-IP.md",
     "Misc/Cyber Security/3DES-Triple-DES.md",
     "Misc/Cyber Security/Level-Bandit-Passwords.md",
@@ -206,16 +257,8 @@
     "Misc/Cyber Security/Network Engineering - freecode camp/Network-Address-Translation-NAT.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Introduction-To-Network-Devices.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Basic-Windows-Networking-commands.md",
-    "3. Google Professional Cyber Security course/2. Network Security/Network Devices.md",
-    "3. Google Professional Cyber Security course/1. Fundamentals/5. OWASP Security Principals.md",
-    "Screenshots/Screenshot 2026-03-12 185726.png",
     "Screenshots/Screenshot 2026-03-12 183726.png",
-    "3. Google Professional Cyber Security course/1. Fundamentals/1. CIA Triad2..md",
-    "Playboo.md",
     "Untitled.base",
-    "Untitled.md",
-    "3. Google Professional Cyber Security course/1. Fundamentals/2. Security Audit.md",
-    "3. Google Professional Cyber Security course/1. Fundamentals/3. Conducting a Security Audit.md",
     "3. Google Professional Cyber Security course/1. Fundamentals",
     "3. Google Professional Cyber Security course/2. Network Security",
     "Screenshots/Screenshot 2026-03-08 190533.png",
@@ -229,10 +272,6 @@
     "Screenshots/Screenshot 2026-03-07 131921.png",
     "Screenshots/Screenshot 2026-03-04 183130.png",
     "Screenshots/Screenshot 2026-03-07 123253 1.png",
-    "Screenshots/Screenshot 2026-03-07 123253.png",
-    "Screenshots/Screenshot 2026-03-05 192505.png",
-    "Screenshots/Screenshot 2026-03-02 193146.png",
-    "Screenshots/Screenshot 2026-03-02 185533.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "My_Second_Brain_/Untitled.canvas",

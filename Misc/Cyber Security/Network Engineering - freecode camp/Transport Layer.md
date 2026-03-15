@@ -18,7 +18,7 @@ L4 --- TCP 1025 => 80
 	
 - **Addressing Scheme** [[Ports]]
 - Distinguish data streams. 
-- A computer can run multiple programs. How do we make sure the right program recieves  the right data ie [[Data-Packet]]. ? 
+- A computer can run multiple programs. How do we make sure the right program recieves  the right data ie [[../../Data-Packet (aka IP-Packet)]]. ? 
 
 - Servers listen for requests for pre-defined  ports. 
 - Clients select random ports for each connection. 
