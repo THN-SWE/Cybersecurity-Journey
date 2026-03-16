@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Presentation Layer.md",
+                "file": "3. Google Professional Cyber Security course/2. Network Security/5. Activity - Network Traffic Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Presentation Layer"
+              "title": "5. Activity - Network Traffic Analysis"
             }
           }
         ],
@@ -199,21 +199,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "333a4bc2069d1993",
+  "active": "77ab32f884c308fd",
   "lastOpenFiles": [
+    "UDP.md",
+    "3. Google Professional Cyber Security course/2. Network Security/5. Activity - Network Traffic Analysis.md",
+    "dos.md",
+    "Screenshots/Screenshot 2026-03-16 174331.png",
+    "3. Google Professional Cyber Security course/2. Network Security/4. TCP-IP Model.md",
+    "3. Google Professional Cyber Security course/2. Network Security/3. Security Zones.md",
+    "3. Google Professional Cyber Security course/2. Network Security/2. Network Devices.md",
+    "3. Google Professional Cyber Security course/2. Network Security/1. Intrusion Attacks.md",
+    "TEMP - Curiouts/Dyn DDoS incident 2016 - case study..md",
+    "Misc/Presentation Layer.md",
     "Misc/Regular-Expressions.md",
     "Misc/ICMP.md",
-    "3. Google Professional Cyber Security course/2. Network Security/Intrusion Attacks.md",
     "TEMP - Curiouts/Subnetting...md",
     "Misc/VPN.md",
     "TEMP - Curiouts",
-    "3. Google Professional Cyber Security course/2. Network Security/Security Zones.md",
     "Screenshots/Screenshot 2026-03-15 175601.png",
     "Misc/Cyber Security/Network Engineering - freecode camp/Network Layer.md",
     "Misc/Firewall.md",
-    "Misc/Presentation Layer.md",
     "Screenshots/Screenshot 2026-03-14 150217.png",
-    "3. Google Professional Cyber Security course/2. Network Security/TCP-IP Model.md",
     "Misc/Data-Packet (aka IP-Packet).md",
     "Screenshots/Screenshot 2026-03-14 145345.png",
     "Misc/Cyber Security/Network Engineering - freecode camp/OSI-Model.md",
@@ -229,11 +235,6 @@
     "Misc/Switch.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Port-Scanner.md",
     "Misc/Cyber Security/Network Engineering - freecode camp/Ports.md",
-    "Misc/Cyber Security/Network Engineering - freecode camp/Purpose-of-Networking.md",
-    "Misc/Cyber Security/Network Engineering - freecode camp/What-is-Subnet-Subnetting-IP.md",
-    "Misc/Cyber Security/3DES-Triple-DES.md",
-    "Misc/Cyber Security/Level-Bandit-Passwords.md",
-    "Misc/Cyber Security/Over-The-Wire.md",
     "Screenshots/Screenshot 2026-03-12 183726.png",
     "Untitled.base",
     "3. Google Professional Cyber Security course/1. Fundamentals",
@@ -246,7 +247,6 @@
     "Documents/Controls and compliance checklist.docx",
     "Documents/Control categories.pdf",
     "Screenshots/Screenshot 2026-03-07 131921.png",
-    "Screenshots/Screenshot 2026-03-04 183130.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "My_Second_Brain_/Untitled.canvas",
