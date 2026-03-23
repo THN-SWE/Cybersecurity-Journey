@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Google Professional Cyber Security course/2. Network Security/9. [Activity] Writing a Incident Respond report (Bruteforce attack).md",
+                "file": "3. Google Professional Cyber Security course/2. Network Security/11. Network security applications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. [Activity] Writing a Incident Respond report (Bruteforce attack)"
+              "title": "11. Network security applications"
+            }
+          },
+          {
+            "id": "392b7da772006f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Intrusion Prevention System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intrusion Prevention System"
+            }
+          },
+          {
+            "id": "cc9b18f45443f1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Identity Access Management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Identity Access Management"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defense",
+                "query": "defen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,18 +250,30 @@
   },
   "active": "77ab32f884c308fd",
   "lastOpenFiles": [
+    "Screenshots/Screenshot 2026-03-23 183147.png",
+    "3. Google Professional Cyber Security course/2. Network Security/12. Cloud Security.md",
+    "Misc/Identity Access Management.md",
+    "3. Google Professional Cyber Security course/1. Fundamentals/6. SIEM - Tool.md",
+    "3. Google Professional Cyber Security course/2. Network Security/11. Network security applications.md",
+    "Misc/Intrusion Prevention System.md",
+    "TEMP - Curiouts/IPS - placement doubt.md",
+    "Misc/Intrusion Detection System.md",
+    "Screenshots/Screenshot 2026-03-23 181832.png",
+    "Screenshots/Screenshot 2026-03-23 180832.png",
+    "3. Google Professional Cyber Security course/1. Fundamentals/5. OWASP Security Principals.md",
+    "3. Google Professional Cyber Security course/2. Network Security/10. Network Hardening.md",
+    "3. Google Professional Cyber Security course/2. Network Security/7. OS Hardening.md",
+    "3. Google Professional Cyber Security course/2. Network Security/9. [Activity] Writing a Incident Respond report (Bruteforce attack).md",
     "Screenshots/Screenshot 2026-03-22 193802.png",
     "Misc/Attack surface.md",
     "Untitled.md",
     "Screenshots/Screenshot 2026-03-22 193600 1.png",
-    "3. Google Professional Cyber Security course/2. Network Security/9. [Activity] Writing a Incident Respond report (Bruteforce attack).md",
     "Screenshots/Screenshot 2026-03-22 193600.png",
     "Screenshots/Screenshot 2026-03-22 192910.png",
     "Documents/How to read the tcpdump traffic log.md",
     "3. Google Professional Cyber Security course/2. Network Security/5. [Activity] - Network Traffic Analysis.md",
     "3. Google Professional Cyber Security course/2. Network Security/8. Ways to Prevent a Bruteforce attack.md",
     "3. Google Professional Cyber Security course/1. Fundamentals/7. Incident Response & Playbook.md",
-    "3. Google Professional Cyber Security course/2. Network Security/7. OS Hardening.md",
     "3. Google Professional Cyber Security course/2. Network Security/6. Security Hardening.md",
     "README.md",
     "TEMP - Curiouts/Subnetting...md",
@@ -222,22 +283,9 @@
     "3. Google Professional Cyber Security course/2. Network Security/4. TCP-IP Model.md",
     "3. Google Professional Cyber Security course/2. Network Security/3. Security Zones.md",
     "3. Google Professional Cyber Security course/2. Network Security/2. Network Devices.md",
-    "3. Google Professional Cyber Security course/2. Network Security/1. Intrusion Attacks.md",
-    "TEMP - Curiouts/Dyn DDoS incident 2016 - case study..md",
-    "Misc/Presentation Layer.md",
-    "Misc/Regular-Expressions.md",
-    "Misc/ICMP.md",
-    "Misc/VPN.md",
     "TEMP - Curiouts",
     "Screenshots/Screenshot 2026-03-15 175601.png",
-    "Misc/Cyber Security/Network Engineering - freecode camp/Network Layer.md",
-    "Misc/Firewall.md",
     "Screenshots/Screenshot 2026-03-14 150217.png",
-    "Misc/Data-Packet (aka IP-Packet).md",
-    "Screenshots/Screenshot 2026-03-14 145345.png",
-    "Screenshots/Screenshot 2026-03-14 140148.png",
-    "Screenshots/Screenshot 2026-03-14 122742.png",
-    "Screenshots/Screenshot 2026-03-12 185726.png",
     "Untitled.base",
     "3. Google Professional Cyber Security course/1. Fundamentals",
     "3. Google Professional Cyber Security course/2. Network Security",
